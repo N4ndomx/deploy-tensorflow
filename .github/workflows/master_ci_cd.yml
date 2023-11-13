@@ -1,4 +1,4 @@
-name: DockerImage
+name: Deploy-model-tensor
 
 on:
   push:
